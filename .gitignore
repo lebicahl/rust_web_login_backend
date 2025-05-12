@@ -1,0 +1,9 @@
+# Emacs backup files
+*~
+\#*\#
+
+# Emacs auto-save files
+.\#*
+
+# rust cargo.lock file
+*.lock
